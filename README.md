@@ -22,7 +22,8 @@
 
 ## 🚀 About Me
 
-I design, architect, and deploy robust, multi-tenant **Software-as-a-Service (SaaS)** platforms and automated financial integration applications. I specialize in building complete, high-performance web applications with seamless backends, polished responsive designs, and automated agentic workflows.
+I design, architect, and deploy robust, multi-tenant **Software-as-a-Service (SaaS)** platforms and automated financial integration applications.
+I specialize in building complete, high-performance web applications with seamless backends, polished responsive designs, and automated agentic workflows.
 
 - 🏢 **Current Focus**: Architecting enterprise management systems at **Mareeye Tech**.
 - 🛠️ **Core Philosophy**: Writing clean, highly maintainable code while crafting premium UI/UX interfaces.
