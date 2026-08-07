@@ -1,6 +1,6 @@
 
 
-# HI, I'm The Hamse Mohamoud Ismail
+# HI, I'm Hamse Mohamoud Ismail
 
 **Full-Stack Software Engineer & SaaS Architect**
 [hamsehmahamud@gmail.com](https://www.google.com/search?q=mailto%3Ahamsehmahamud%40gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/hamse-mohamoud-ismail-24a193168/)
@@ -25,3 +25,14 @@ Currently architecting scalable, production-ready enterprise management systems 
 | **Backend** | Node.js, PostgreSQL (Optimized Queries, High Availability), RESTful APIs |
 | **DevOps** | Git, GitHub, CI/CD Automated Deployment Pipelines |
 
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamsehmahamud&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Committed to continuous technical education and engineering robust systems."</i>
+</div>
