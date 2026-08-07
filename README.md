@@ -42,9 +42,3 @@ Currently architecting scalable, production-ready enterprise management systems 
     <img src="https://github-readme-stats.vercel.app/api?username=hamsehmahamud&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <i>"Committed to continuous technical education and engineering robust systems."</i>
-</div>
